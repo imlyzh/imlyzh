@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Lyzh
 
 <!--
 **Zhihang-Liu/zhihang-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Currently a college student.
+- Currently learning Digital circuit and Analog circuit.
+- Mostly code in Rust, F# and Python.
+- Please advise
