@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - Currently a college student.
 - Currently learning PLT\Compiler\OS\Digital Circuits.
-- Mostly code in Rust, F# and Python.
+- Mostly code in Rust, F#, Python and JS/TS.
 - Please advise
